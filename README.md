@@ -7,4 +7,4 @@
 * Jalankan `php artisan serve`
 * Ketikan di browser kalain `http://127.0.0.1:8000/`
 
-Pencipta: Hikari Rizuki
+Pencipta : Hikari Rizuki
