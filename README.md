@@ -8,4 +8,9 @@
 * Ketikan di browser kalian `http://127.0.0.1:8000/`
 * Tadaaaaa......
 
+**Noted Auth Role**
+> Username : admin Password : admin
+> Username : cek Password : cek
+> Username : arsip Password : arsip
+
 Pencipta : Muhammad Rizqi Samawa
