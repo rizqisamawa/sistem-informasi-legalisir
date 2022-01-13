@@ -1,4 +1,4 @@
-# [ TK ] Sistem Informasi Legaslir
+# Sistem Informasi Legaslir
 
 #### Langkah - Langkah Menjalakan Project
 
